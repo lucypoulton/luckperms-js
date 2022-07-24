@@ -1,0 +1,15 @@
+{
+  "name": "luckperms",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Unofficial LuckPerms API client",
+  "homepage": "https://luckperms.net/",
+  "author": "Lucy Poulton <lucy@lucypoulton.net>",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "keywords": ["luckperms", "perms", "permissions", "minecraft"]
+}
